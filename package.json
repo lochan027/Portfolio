@@ -14,7 +14,6 @@
     "bootstrap": "^5.3.3",
     "framer-motion": "^10.18.0",
     "gsap": "^3.12.5",
-    "portfolio": "file:",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.6",
     "react-dom": "^18.2.0",
