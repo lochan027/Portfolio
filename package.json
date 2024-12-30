@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "16.x"
+    "node": "16.20.0",
+    "npm": "8.19.4"
   },
   "dependencies": {
     "@react-pdf/renderer": "2.2.0",
@@ -31,6 +32,14 @@
     "three": "0.155.0",
     "typewriter-effect": "2.18.2",
     "web-vitals": "2.1.4"
+  },
+  "resolutions": {
+    "@babel/core": "7.19.6",
+    "@babel/generator": "7.19.6",
+    "@babel/compat-data": "7.19.4",
+    "@babel/helper-compilation-targets": "7.19.3",
+    "@babel/helper-create-class-features-plugin": "7.19.0",
+    "@babel/helper-module-transforms": "7.19.6"
   },
   "scripts": {
     "start": "react-scripts start",
