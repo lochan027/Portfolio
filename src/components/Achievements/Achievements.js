@@ -28,31 +28,25 @@ function Achievements() {
       title: "AWS Cloud Practitioner",
       organization: "Amazon Web Services",
       logo: "https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png",
-      link: "#"
+      link: "https://www.credly.com/badges/b39ab5b7-3ad3-41b0-94b6-452171d63d37/public_url"
     },
     {
       title: "Cisco EndPoint Security",
       organization: "Cisco",
       logo: "https://images.credly.com/size/680x680/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png",
-      link: "#"
+      link: "https://www.credly.com/badges/d4dbfd70-96e2-4af4-b6f5-cc5ca9772578/public_url"
     },
     {
       title: "Agile Foundation",
       organization: "Agile Alliance",
       logo: "https://cdn-icons-png.flaticon.com/512/9752/9752051.png",
-      link: "#"
-    },
-    {
-      title: "Java Certification",
-      organization: "Oracle",
-      logo: "https://www.oracle.com/a/tech/img/java-logo-white.svg",
-      link: "#"
+      link: "https://www.linkedin.com/learning/certificates/46db3a989cfa84bf6d2db89b3fd96af0d85c1ab8038c85fe6f00eeda37dda854"
     },
     {
       title: "React.js Certification",
       organization: "Meta",
       logo: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
-      link: "#"
+      link: "https://www.linkedin.com/learning/certificates/271d9c7a51d513f1ac9bd2fd971e81f7e41feda0c45c9ac95592b0bf779bb95c"
     }
   ];
 
